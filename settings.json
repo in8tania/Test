@@ -1,0 +1,11 @@
+// VSCODE enviroment setup
+// Theme: One Monokai
+//TaniaR : tanoia@in8.com.br
+
+{
+	  "editor.fontLigatures": false,
+	  "editor.fontSize": 15,
+    "editor.fontWeight": "normal",
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+}
